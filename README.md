@@ -634,5 +634,5 @@ This function is used only for visualisation purpose. You don't have to push it 
 </ul>
 
 
-## Author
-[Shihab Mustafa](https://github.com/Abugasha)
+# Author
+[Shihab Mustafa] (https://github.com/Abugasha)
